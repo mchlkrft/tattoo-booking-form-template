@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+title: "Tattoo Booking Form Template for Freelance Tattoo Artists"
+message: "If you use this resource, please cite it as below."
+authors:
+  - name: "Inklee"
+date-released: "2026-05-15"
+version: "1.0.0"
+license: MIT
+url: "https://inklee.app"
+repository-code: "https://github.com/inklee/tattoo-booking-form-template"
+keywords:
+  - tattoo
+  - tattoo-booking
+  - tattoo-intake-form
+  - booking-form
+  - freelance-tattoo-artist
+  - guest-spot
+  - instagram-dm-booking
+  - google-forms-alternative
