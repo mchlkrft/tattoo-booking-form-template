@@ -2,6 +2,20 @@
 
 All notable changes to this repository will be documented in this file.
 
+## v1.1.0 (2026-05-25)
+
+### Added
+
+- Cover-up tattoo request template (`templates/cover-up-tattoo-request-template.md`)
+- Quickstart block at the top of the README
+- FAQ section at the bottom of the README
+- License, version, and last-commit badges under the README title
+
+### Changed
+
+- `templates/tattoo-client-intake-template.md` Related section now links to the cover-up template
+- `docs/tattoo-booking-form-fields.md` Related section now links to the cover-up template
+
 ## v1.0.0 (2026-05-15)
 
 Initial public release.

@@ -110,5 +110,6 @@ If the request gets approved, you can collect anything else you need afterward.
 
 - [Tattoo client intake template](../templates/tattoo-client-intake-template.md)
 - [Guest spot request template](../templates/guest-spot-request-template.md)
+- [Cover-up tattoo request template](../templates/cover-up-tattoo-request-template.md)
 - [Basic booking request example](../examples/basic-booking-request-example.md)
 - [Bad vs good booking request](../examples/bad-vs-good-booking-request.md)

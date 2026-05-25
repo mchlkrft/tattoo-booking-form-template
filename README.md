@@ -1,8 +1,26 @@
 # Tattoo Booking Form Template for Freelance Tattoo Artists
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Latest version](https://img.shields.io/github/v/tag/mchlkrft/tattoo-booking-form-template?label=version&color=blue)](https://github.com/mchlkrft/tattoo-booking-form-template/releases)
+[![Last commit](https://img.shields.io/github/last-commit/mchlkrft/tattoo-booking-form-template)](https://github.com/mchlkrft/tattoo-booking-form-template/commits/main)
+
 A free tattoo booking form template for freelance tattoo artists, traveling tattoo artists, and guest spot artists who want cleaner client requests than Instagram DMs, screenshots, Google Forms, or spreadsheets can offer. The repo is organized around a single idea: tattoo bookings start with the idea, not the time slot. Everything here, the form fields, the docs, the examples, is built around that order.
 
 If you are searching for a tattoo client intake form template, a tattoo artist Google Forms alternative, or a clean way to handle Instagram DM booking requests, this is the resource. The templates and docs work fine on their own, with or without any specific booking tool.
+
+## Quickstart
+
+1. Open the template that matches your situation:
+   - Most artists: [tattoo-client-intake-template.md](templates/tattoo-client-intake-template.md)
+   - Traveling artists: [guest-spot-request-template.md](templates/guest-spot-request-template.md)
+   - Flash days: [flash-day-request-template.md](templates/flash-day-request-template.md)
+   - Cover-ups: [cover-up-tattoo-request-template.md](templates/cover-up-tattoo-request-template.md)
+2. Copy the template contents into your form builder, Notion page, Google Form, or any other tool that lets you build a form.
+3. Adjust field labels and required toggles to fit your voice and the laws in your region.
+4. Replace any placeholder studio and deposit copy with your own.
+5. Link the form from your Instagram bio, your website, and your DM auto-replies.
+
+The templates work with any tool. The docs explain the reasoning if you want to design your own from scratch.
 
 ## Who this is for
 
@@ -64,6 +82,7 @@ The same shape works for guest spots and flash days. See [docs/guest-spot-bookin
 - [templates/tattoo-client-intake-template.md](templates/tattoo-client-intake-template.md)
 - [templates/guest-spot-request-template.md](templates/guest-spot-request-template.md)
 - [templates/flash-day-request-template.md](templates/flash-day-request-template.md)
+- [templates/cover-up-tattoo-request-template.md](templates/cover-up-tattoo-request-template.md)
 
 ## Related guides
 
@@ -78,6 +97,32 @@ The same shape works for guest spots and flash days. See [docs/guest-spot-bookin
 - [Basic booking request example](examples/basic-booking-request-example.md)
 - [Guest spot booking request example](examples/guest-spot-booking-request-example.md)
 - [Bad vs good booking request](examples/bad-vs-good-booking-request.md)
+
+## FAQ
+
+### Can I use these templates without Inklee?
+
+Yes. The templates and docs are pure Markdown and they work in any form builder, CRM, or notebook tool. Inklee maintains this repo, but nothing here requires it.
+
+### Do I need to credit you if I use a template?
+
+No. The MIT license lets you use, modify, and redistribute everything in this repo without attribution. A link back is appreciated, not required.
+
+### What is the difference between a guest spot and a flash day?
+
+A guest spot is a tattoo artist working in another studio for a few days, taking bookings in that city. A flash day is an artist offering specific pre-drawn designs at a fixed location and date, often first-come-first-served. The repo includes separate templates for each ([guest spot](templates/guest-spot-request-template.md), [flash day](templates/flash-day-request-template.md), [cover-up](templates/cover-up-tattoo-request-template.md)) since each flow needs slightly different fields.
+
+### Why is the deposit field a checkbox and not a payment step?
+
+This repo only covers the request stage. The deposit happens after the artist reviews and approves the request, not during the form submission. Most tattoo artists do not want to charge before they have agreed to take the piece. See [tattoo deposit policy template](docs/tattoo-deposit-policy-template.md) for the deposit policy itself.
+
+### Can I translate the templates?
+
+Yes. The MIT license allows translation. If you publish a translation, a pull request adding it to the repo is welcome but not required.
+
+### How often is this repo updated?
+
+Roughly every two weeks for the first months, then monthly. New templates, new examples, and copy improvements drop on a regular cadence. See [CHANGELOG.md](CHANGELOG.md) for the latest changes.
 
 ## Built by Inklee
 
