@@ -65,3 +65,4 @@ This template covers the request only. Deposit collection, calendar booking, and
 - [Basic booking request example](../examples/basic-booking-request-example.md)
 - [Cover-up tattoo request template](cover-up-tattoo-request-template.md)
 - [Tattoo deposit policy template](../docs/tattoo-deposit-policy-template.md)
+- [Tattoo waitlist signup template](tattoo-waitlist-signup-template.md)

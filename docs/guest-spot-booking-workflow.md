@@ -98,3 +98,4 @@ Closing the window publicly helps you stop fielding new DM requests and concentr
 - [Tattoo booking form fields](tattoo-booking-form-fields.md)
 - [Guest spot request template](../templates/guest-spot-request-template.md)
 - [Guest spot booking request example](../examples/guest-spot-booking-request-example.md)
+- [Tattoo waitlist guide](tattoo-waitlist-guide.md)

@@ -113,3 +113,4 @@ If the request gets approved, you can collect anything else you need afterward.
 - [Cover-up tattoo request template](../templates/cover-up-tattoo-request-template.md)
 - [Basic booking request example](../examples/basic-booking-request-example.md)
 - [Bad vs good booking request](../examples/bad-vs-good-booking-request.md)
+- [Tattoo waitlist guide](tattoo-waitlist-guide.md)

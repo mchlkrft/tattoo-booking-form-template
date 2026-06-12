@@ -15,6 +15,7 @@ If you are searching for a tattoo client intake form template, a tattoo artist G
    - Traveling artists: [guest-spot-request-template.md](templates/guest-spot-request-template.md)
    - Flash days: [flash-day-request-template.md](templates/flash-day-request-template.md)
    - Cover-ups: [cover-up-tattoo-request-template.md](templates/cover-up-tattoo-request-template.md)
+   - Books closed: [tattoo-waitlist-signup-template.md](templates/tattoo-waitlist-signup-template.md)
 2. Copy the template contents into your form builder, Notion page, Google Form, or any other tool that lets you build a form.
 3. Adjust field labels and required toggles to fit your voice and the laws in your region.
 4. Replace any placeholder studio and deposit copy with your own.
@@ -72,7 +73,7 @@ See [docs/tattoo-booking-form-fields.md](docs/tattoo-booking-form-fields.md) for
 2. Client opens your booking link
 3. Client submits the structured tattoo booking request
 4. You review the request: style fit, schedule, scope
-5. You approve, decline, or move it to a waitlist
+5. You approve, decline, or move it to a [waitlist](docs/tattoo-waitlist-guide.md)
 6. Approved bookings move to deposit, then to a confirmed appointment
 
 The same shape works for guest spots and flash days. See [docs/guest-spot-booking-workflow.md](docs/guest-spot-booking-workflow.md) for the traveling artist version.
@@ -83,6 +84,7 @@ The same shape works for guest spots and flash days. See [docs/guest-spot-bookin
 - [templates/guest-spot-request-template.md](templates/guest-spot-request-template.md)
 - [templates/flash-day-request-template.md](templates/flash-day-request-template.md)
 - [templates/cover-up-tattoo-request-template.md](templates/cover-up-tattoo-request-template.md)
+- [templates/tattoo-waitlist-signup-template.md](templates/tattoo-waitlist-signup-template.md)
 
 ## Related guides
 
@@ -91,6 +93,7 @@ The same shape works for guest spots and flash days. See [docs/guest-spot-bookin
 - [Google Forms vs tattoo booking software](docs/google-forms-vs-tattoo-booking-software.md)
 - [Guest spot booking workflow](docs/guest-spot-booking-workflow.md)
 - [Tattoo deposit policy template](docs/tattoo-deposit-policy-template.md)
+- [Tattoo waitlist guide](docs/tattoo-waitlist-guide.md)
 
 ## Examples
 
@@ -111,6 +114,10 @@ No. The MIT license lets you use, modify, and redistribute everything in this re
 ### What is the difference between a guest spot and a flash day?
 
 A guest spot is a tattoo artist working in another studio for a few days, taking bookings in that city. A flash day is an artist offering specific pre-drawn designs at a fixed location and date, often first-come-first-served. The repo includes separate templates for each ([guest spot](templates/guest-spot-request-template.md), [flash day](templates/flash-day-request-template.md), [cover-up](templates/cover-up-tattoo-request-template.md)) since each flow needs slightly different fields.
+
+### What is a tattoo waitlist and when should I use one?
+
+A waitlist is a short signup form that collects interested clients while your books are closed, so you reopen to a ready list instead of starting from zero. It asks for much less than a booking request (name, email, rough idea, city) because nobody is committing to anything yet. The city field doubles as travel planning for guest spot artists. See the [tattoo waitlist guide](docs/tattoo-waitlist-guide.md) and the [waitlist signup template](templates/tattoo-waitlist-signup-template.md).
 
 ### Why is the deposit field a checkbox and not a payment step?
 
