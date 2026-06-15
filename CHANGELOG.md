@@ -2,6 +2,17 @@
 
 All notable changes to this repository will be documented in this file.
 
+## v1.3.0 (2026-06-15)
+
+### Added
+
+- Tattoo pricing and quote requests guide (`docs/tattoo-pricing-and-quotes-guide.md`): how to handle "how much?" messages, what pricing to share publicly versus in a quote, the common pricing models (minimum, hourly, day rate, piece, flash), the fields a quote request needs, copy-paste quote wording, common mistakes, and a checklist
+- README FAQ entry on handling tattoo pricing messages, plus the new guide in the Related guides index
+
+### Changed
+
+- `docs/tattoo-booking-form-fields.md`, `docs/tattoo-deposit-policy-template.md`, and `templates/tattoo-client-intake-template.md` Related sections now link the pricing guide
+
 ## v1.2.0 (2026-06-12)
 
 ### Added

@@ -114,3 +114,4 @@ If the request gets approved, you can collect anything else you need afterward.
 - [Basic booking request example](../examples/basic-booking-request-example.md)
 - [Bad vs good booking request](../examples/bad-vs-good-booking-request.md)
 - [Tattoo waitlist guide](tattoo-waitlist-guide.md)
+- [Tattoo pricing and quote requests](tattoo-pricing-and-quotes-guide.md)

@@ -66,3 +66,4 @@ This template covers the request only. Deposit collection, calendar booking, and
 - [Cover-up tattoo request template](cover-up-tattoo-request-template.md)
 - [Tattoo deposit policy template](../docs/tattoo-deposit-policy-template.md)
 - [Tattoo waitlist signup template](tattoo-waitlist-signup-template.md)
+- [Tattoo pricing and quote requests](../docs/tattoo-pricing-and-quotes-guide.md)

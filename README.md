@@ -94,6 +94,7 @@ The same shape works for guest spots and flash days. See [docs/guest-spot-bookin
 - [Guest spot booking workflow](docs/guest-spot-booking-workflow.md)
 - [Tattoo deposit policy template](docs/tattoo-deposit-policy-template.md)
 - [Tattoo waitlist guide](docs/tattoo-waitlist-guide.md)
+- [Tattoo pricing and quote requests](docs/tattoo-pricing-and-quotes-guide.md)
 
 ## Examples
 
@@ -122,6 +123,10 @@ A waitlist is a short signup form that collects interested clients while your bo
 ### Why is the deposit field a checkbox and not a payment step?
 
 This repo only covers the request stage. The deposit happens after the artist reviews and approves the request, not during the form submission. Most tattoo artists do not want to charge before they have agreed to take the piece. See [tattoo deposit policy template](docs/tattoo-deposit-policy-template.md) for the deposit policy itself.
+
+### How should I handle "how much?" tattoo pricing messages?
+
+Do not quote blind. A price without the idea, size, placement, and references is a guess clients will hold you to. Share your shop minimum and rate publicly to filter budgets, then ask for the request details before giving a number or range. The [tattoo pricing and quote requests guide](docs/tattoo-pricing-and-quotes-guide.md) has copy-paste quote wording, the common pricing models, and the fields a quote needs.
 
 ### Can I translate the templates?
 
