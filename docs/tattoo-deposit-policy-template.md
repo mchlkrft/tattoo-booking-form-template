@@ -101,3 +101,4 @@ After the deposit is received, the client receives a message that reads somethin
 - [Google Forms vs tattoo booking software](google-forms-vs-tattoo-booking-software.md)
 - [Tattoo client intake template](../templates/tattoo-client-intake-template.md)
 - [Tattoo pricing and quote requests](tattoo-pricing-and-quotes-guide.md)
+- [Tattoo consent and health intake fields](tattoo-consent-and-health-intake-fields.md)

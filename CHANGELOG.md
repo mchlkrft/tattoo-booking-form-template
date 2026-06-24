@@ -2,6 +2,17 @@
 
 All notable changes to this repository will be documented in this file.
 
+## v1.4.0 (2026-06-24)
+
+### Added
+
+- Tattoo consent and health intake fields guide (`docs/tattoo-consent-and-health-intake-fields.md`): what health, medication, allergy, skin, and consent flags to collect at the booking or pre-appointment stage and why, the booking-stage pre-screen versus the in-person signed waiver, region notes, a data-handling section, and a copy-paste Markdown health-intake addendum for the client intake template
+- README FAQ entry on health and consent intake questions, plus the new guide in the Related guides index
+
+### Changed
+
+- `docs/tattoo-booking-form-fields.md`, `templates/tattoo-client-intake-template.md`, `docs/tattoo-deposit-policy-template.md`, and `docs/tattoo-pricing-and-quotes-guide.md` Related sections now link the consent and health intake guide
+
 ## v1.3.0 (2026-06-15)
 
 ### Added

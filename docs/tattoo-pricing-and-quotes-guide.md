@@ -96,3 +96,4 @@ Keep the wording yours. The structure, a number or range, what it covers, and th
 - [Tattoo client intake template](../templates/tattoo-client-intake-template.md)
 - [Instagram DM booking workflow](instagram-dm-booking-workflow.md)
 - [Flash day request template](../templates/flash-day-request-template.md)
+- [Tattoo consent and health intake fields](tattoo-consent-and-health-intake-fields.md)

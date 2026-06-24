@@ -89,6 +89,7 @@ The same shape works for guest spots and flash days. See [docs/guest-spot-bookin
 ## Related guides
 
 - [Tattoo booking form fields](docs/tattoo-booking-form-fields.md)
+- [Tattoo consent and health intake fields](docs/tattoo-consent-and-health-intake-fields.md)
 - [Instagram DM booking workflow](docs/instagram-dm-booking-workflow.md)
 - [Google Forms vs tattoo booking software](docs/google-forms-vs-tattoo-booking-software.md)
 - [Guest spot booking workflow](docs/guest-spot-booking-workflow.md)
@@ -123,6 +124,10 @@ A waitlist is a short signup form that collects interested clients while your bo
 ### Why is the deposit field a checkbox and not a payment step?
 
 This repo only covers the request stage. The deposit happens after the artist reviews and approves the request, not during the form submission. Most tattoo artists do not want to charge before they have agreed to take the piece. See [tattoo deposit policy template](docs/tattoo-deposit-policy-template.md) for the deposit policy itself.
+
+### What health and consent questions should a tattoo intake form ask?
+
+Collect enough to tattoo safely and to confirm the client understands the process: key health flags (conditions that affect healing or bleeding, medication and blood thinners, allergies, skin conditions at the placement, pregnancy), plus consent acknowledgments like aftercare received and photography or portfolio use. Keep the signed legal waiver, ID, and age verification for in person, and check your local health authority and a lawyer for the specifics. See the [tattoo consent and health intake fields](docs/tattoo-consent-and-health-intake-fields.md) guide.
 
 ### How should I handle "how much?" tattoo pricing messages?
 
