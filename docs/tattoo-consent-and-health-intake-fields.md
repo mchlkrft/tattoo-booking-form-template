@@ -207,4 +207,5 @@ Acknowledgments:
 - [Tattoo client intake template](../templates/tattoo-client-intake-template.md)
 - [Tattoo deposit policy template](tattoo-deposit-policy-template.md)
 - [Tattoo pricing and quote requests](tattoo-pricing-and-quotes-guide.md)
+- [Tattoo aftercare follow-up and touch-up requests](tattoo-aftercare-followup-and-touch-ups.md)
 - [Guest spot booking workflow](guest-spot-booking-workflow.md)

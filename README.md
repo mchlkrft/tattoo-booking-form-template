@@ -96,6 +96,7 @@ The same shape works for guest spots and flash days. See [docs/guest-spot-bookin
 - [Tattoo deposit policy template](docs/tattoo-deposit-policy-template.md)
 - [Tattoo waitlist guide](docs/tattoo-waitlist-guide.md)
 - [Tattoo pricing and quote requests](docs/tattoo-pricing-and-quotes-guide.md)
+- [Tattoo aftercare follow-up and touch-up requests](docs/tattoo-aftercare-followup-and-touch-ups.md)
 
 ## Examples
 
@@ -132,6 +133,10 @@ Collect enough to tattoo safely and to confirm the client understands the proces
 ### How should I handle "how much?" tattoo pricing messages?
 
 Do not quote blind. A price without the idea, size, placement, and references is a guess clients will hold you to. Share your shop minimum and rate publicly to filter budgets, then ask for the request details before giving a number or range. The [tattoo pricing and quote requests guide](docs/tattoo-pricing-and-quotes-guide.md) has copy-paste quote wording, the common pricing models, and the fields a quote needs.
+
+### Should I follow up after a tattoo, and is a touch-up free?
+
+Yes, a short follow-up is worth it: it catches healing problems early, gets you a healed portfolio photo, and is the natural moment to invite a review and the next booking. Handle it in a few timed messages rather than letting healing questions scatter back into DMs. Whether a touch-up is free is your policy, not a rule. Many artists offer a free or discounted touch-up within a set window after the tattoo is fully healed (commonly in the 2 to 6 month range), with damage from poor aftercare, sun, or picking excluded, and high-wear areas like hands and feet often charged. Put the window and conditions in writing, agree them before booking, and collect touch-up requests through a structured form. See the [tattoo aftercare follow-up and touch-up requests](docs/tattoo-aftercare-followup-and-touch-ups.md) guide for copy-paste follow-up messages, a fair policy shape, and a touch-up request field set.
 
 ### Can I translate the templates?
 

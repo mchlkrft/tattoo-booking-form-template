@@ -68,3 +68,4 @@ This template covers the request only. Deposit collection, calendar booking, and
 - [Tattoo waitlist signup template](tattoo-waitlist-signup-template.md)
 - [Tattoo pricing and quote requests](../docs/tattoo-pricing-and-quotes-guide.md)
 - [Tattoo consent and health intake fields](../docs/tattoo-consent-and-health-intake-fields.md)
+- [Tattoo aftercare follow-up and touch-up requests](../docs/tattoo-aftercare-followup-and-touch-ups.md)

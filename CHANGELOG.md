@@ -2,6 +2,17 @@
 
 All notable changes to this repository will be documented in this file.
 
+## v1.5.0 (2026-07-01)
+
+### Added
+
+- Tattoo aftercare follow-up and touch-up requests guide (`docs/tattoo-aftercare-followup-and-touch-ups.md`): the post-session stage, with a follow-up timeline, copy-paste aftercare and check-in messages, a fair touch-up policy shape (free window, exclusions, high-wear placements), a structured touch-up request field set, notes on touching up another artist's work, common mistakes, and a checklist
+- README FAQ entry on following up after a tattoo and whether a touch-up is free, plus the new guide in the Related guides index
+
+### Changed
+
+- `templates/tattoo-client-intake-template.md`, `docs/tattoo-deposit-policy-template.md`, and `docs/tattoo-consent-and-health-intake-fields.md` Related sections now link the aftercare follow-up and touch-up guide
+
 ## v1.4.0 (2026-06-24)
 
 ### Added
