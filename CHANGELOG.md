@@ -2,6 +2,17 @@
 
 All notable changes to this repository will be documented in this file.
 
+## v1.6.0 (2026-07-10)
+
+### Added
+
+- Tattoo booking reply templates guide (`docs/tattoo-booking-reply-templates.md`) with copy-paste wording for missing details, approvals, deposit requests, confirmations, waitlists, declines, rescheduling, and cancellations
+- README FAQ entry explaining the difference between approval and confirmation
+
+### Changed
+
+- README, tattoo client intake template, deposit policy, and Instagram DM workflow now link to the booking reply templates
+
 ## v1.5.0 (2026-07-01)
 
 ### Added
