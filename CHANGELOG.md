@@ -2,7 +2,7 @@
 
 All notable changes to this repository will be documented in this file.
 
-## v1.6.0 (2026-07-10)
+## Unreleased (2026-07-10)
 
 ### Added
 
