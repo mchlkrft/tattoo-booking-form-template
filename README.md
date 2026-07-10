@@ -97,6 +97,7 @@ The same shape works for guest spots and flash days. See [docs/guest-spot-bookin
 - [Tattoo waitlist guide](docs/tattoo-waitlist-guide.md)
 - [Tattoo pricing and quote requests](docs/tattoo-pricing-and-quotes-guide.md)
 - [Tattoo aftercare follow-up and touch-up requests](docs/tattoo-aftercare-followup-and-touch-ups.md)
+- [Tattoo booking reply templates](docs/tattoo-booking-reply-templates.md)
 
 ## Examples
 
@@ -137,6 +138,10 @@ Do not quote blind. A price without the idea, size, placement, and references is
 ### Should I follow up after a tattoo, and is a touch-up free?
 
 Yes, a short follow-up is worth it: it catches healing problems early, gets you a healed portfolio photo, and is the natural moment to invite a review and the next booking. Handle it in a few timed messages rather than letting healing questions scatter back into DMs. Whether a touch-up is free is your policy, not a rule. Many artists offer a free or discounted touch-up within a set window after the tattoo is fully healed (commonly in the 2 to 6 month range), with damage from poor aftercare, sun, or picking excluded, and high-wear areas like hands and feet often charged. Put the window and conditions in writing, agree them before booking, and collect touch-up requests through a structured form. See the [tattoo aftercare follow-up and touch-up requests](docs/tattoo-aftercare-followup-and-touch-ups.md) guide for copy-paste follow-up messages, a fair policy shape, and a touch-up request field set.
+
+### How should I reply to a tattoo booking request?
+
+State the decision first, then give one clear next action. Keep approval separate from confirmation: approve the project, send the quote and deposit step, and only confirm the appointment after the deposit arrives. For declines and waitlists, be direct about what the status means instead of leaving the client guessing. The [tattoo booking reply templates](docs/tattoo-booking-reply-templates.md) include copy-paste wording for missing details, approvals, deposits, confirmations, waitlists, declines, rescheduling, and cancellations.
 
 ### Can I translate the templates?
 
