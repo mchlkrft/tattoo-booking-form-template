@@ -82,3 +82,4 @@ That sentence covers the move from DM to structured request without sounding col
 - [Tattoo booking form fields](tattoo-booking-form-fields.md)
 - [Google Forms vs tattoo booking software](google-forms-vs-tattoo-booking-software.md)
 - [Bad vs good booking request](../examples/bad-vs-good-booking-request.md)
+- [Tattoo booking reply templates](tattoo-booking-reply-templates.md)
