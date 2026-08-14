@@ -86,6 +86,7 @@ The same shape works for guest spots and flash days. See [docs/guest-spot-bookin
 - [templates/cover-up-tattoo-request-template.md](templates/cover-up-tattoo-request-template.md)
 - [templates/tattoo-waitlist-signup-template.md](templates/tattoo-waitlist-signup-template.md)
 - [templates/books-open-announcement-templates.md](templates/books-open-announcement-templates.md)
+- [templates/pre-appointment-client-message-template.md](templates/pre-appointment-client-message-template.md)
 - [templates/tattoo-deposit-status-tracker-template.md](templates/tattoo-deposit-status-tracker-template.md)
 
 ## Related guides
@@ -154,7 +155,7 @@ State the decision first, then give one clear next action. Keep approval separat
 
 ### What should I send a client before a tattoo appointment?
 
-Repeat the confirmed date, arrival time, studio address, project, placement, deposit, estimated balance, and payment methods. Add clothing or access notes for the placement, your guest and lateness rules, the rescheduling policy, and one day-of contact method. Do not tell clients to stop prescribed medication or diagnose a health or skin concern in a routine message. The pre-appointment client message template includes full, short, flash-day, and guest-spot versions.
+Repeat the confirmed date, arrival time, studio address, project, placement, deposit, estimated balance, and payment methods. Add clothing or access notes for the placement, your guest and lateness rules, the rescheduling policy, and one day-of contact method. Do not tell clients to stop prescribed medication or diagnose a health or skin concern in a routine message. The [pre-appointment client message template](templates/pre-appointment-client-message-template.md) includes full, short, flash-day, and guest-spot versions.
 
 ### How should I handle a client who cancels or does not show up?
 

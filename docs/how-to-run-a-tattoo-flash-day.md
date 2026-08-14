@@ -123,7 +123,7 @@ A few days before the event, send every confirmed client:
 - Guest, lateness, reschedule, and cancellation rules
 - The best contact method if travel goes wrong
 
-Use the pre-appointment client message template and adjust it for the shorter flash-day pace.
+Use the [pre-appointment client message template](../templates/pre-appointment-client-message-template.md) and adjust it for the shorter flash-day pace.
 
 ## Run the room from a private day list
 
@@ -174,4 +174,5 @@ If you want the flash requests, approvals, deposits, and client details to stay 
 - [Flash day request template](../templates/flash-day-request-template.md)
 - [Tattoo booking request review checklist](tattoo-booking-request-review-checklist.md)
 - [Tattoo deposit status tracker template](../templates/tattoo-deposit-status-tracker-template.md)
+- [Pre-appointment client message template](../templates/pre-appointment-client-message-template.md)
 - [Tattoo cancellations, reschedules, and no-shows](tattoo-cancellations-reschedules-and-no-shows.md)

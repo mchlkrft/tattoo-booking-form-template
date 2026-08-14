@@ -2,6 +2,12 @@
 
 All notable changes to this repository will be documented in this file.
 
+## v1.13.0 (2026-08-14)
+
+### Added
+
+- Pre-appointment client message template (`templates/pre-appointment-client-message-template.md`): full, short, flash-day, and guest-spot prep messages with practical studio, clothing, payment, policy, and contact details
+
 ## v1.12.0 (2026-08-14)
 
 ### Added

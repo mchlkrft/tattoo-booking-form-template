@@ -137,3 +137,4 @@ If you want the deposit status attached to the booking instead of maintaining a 
 - [Tattoo booking request review checklist](../docs/tattoo-booking-request-review-checklist.md)
 - [Tattoo pricing and quote requests](../docs/tattoo-pricing-and-quotes-guide.md)
 - [Tattoo cancellations, reschedules, and no-shows](../docs/tattoo-cancellations-reschedules-and-no-shows.md)
+- [Pre-appointment client message template](pre-appointment-client-message-template.md)

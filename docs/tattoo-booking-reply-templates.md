@@ -221,3 +221,4 @@ A client should be able to find the decision and next action without rereading a
 - [Instagram DM booking workflow](instagram-dm-booking-workflow.md)
 - [Tattoo booking request review checklist](tattoo-booking-request-review-checklist.md)
 - [Tattoo deposit status tracker template](../templates/tattoo-deposit-status-tracker-template.md)
+- [Pre-appointment client message template](../templates/pre-appointment-client-message-template.md)
