@@ -73,3 +73,4 @@ When your books are closed, the announcement should still give people something 
 - [Tattoo booking reply templates](../docs/tattoo-booking-reply-templates.md)
 - [Handling tattoo cancellations, reschedules, and no-shows](../docs/tattoo-cancellations-reschedules-and-no-shows.md)
 - [Tattoo client intake template](tattoo-client-intake-template.md)
+- [Tattoo waitlist reopening message templates](tattoo-waitlist-reopening-message-templates.md)

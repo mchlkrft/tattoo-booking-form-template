@@ -69,3 +69,4 @@ Sort and count by city every time you plan travel. Clients told you where to go;
 - [Tattoo deposit policy template](tattoo-deposit-policy-template.md)
 - [Handling tattoo cancellations, reschedules, and no-shows](tattoo-cancellations-reschedules-and-no-shows.md)
 - [Books-open and books-closed announcement templates](../templates/books-open-announcement-templates.md)
+- [Tattoo waitlist reopening message templates](../templates/tattoo-waitlist-reopening-message-templates.md)

@@ -87,6 +87,7 @@ The same shape works for guest spots and flash days. See [docs/guest-spot-bookin
 - [templates/tattoo-waitlist-signup-template.md](templates/tattoo-waitlist-signup-template.md)
 - [templates/books-open-announcement-templates.md](templates/books-open-announcement-templates.md)
 - [templates/pre-appointment-client-message-template.md](templates/pre-appointment-client-message-template.md)
+- [templates/tattoo-waitlist-reopening-message-templates.md](templates/tattoo-waitlist-reopening-message-templates.md)
 - [templates/tattoo-deposit-status-tracker-template.md](templates/tattoo-deposit-status-tracker-template.md)
 
 ## Related guides
@@ -131,7 +132,7 @@ A guest spot is a tattoo artist working in another studio for a few days, taking
 
 ### What is a tattoo waitlist and when should I use one?
 
-A waitlist is a short signup form that collects interested clients while your books are closed, so you reopen to a ready list instead of starting from zero. It asks for much less than a booking request (name, email, rough idea, city) because nobody is committing to anything yet. The city field doubles as travel planning for guest spot artists. See the [tattoo waitlist guide](docs/tattoo-waitlist-guide.md), [waitlist signup template](templates/tattoo-waitlist-signup-template.md), and waitlist reopening message templates.
+A waitlist is a short signup form that collects interested clients while your books are closed, so you reopen to a ready list instead of starting from zero. It asks for much less than a booking request (name, email, rough idea, city) because nobody is committing to anything yet. The city field doubles as travel planning for guest spot artists. See the [tattoo waitlist guide](docs/tattoo-waitlist-guide.md), [waitlist signup template](templates/tattoo-waitlist-signup-template.md), and [waitlist reopening message templates](templates/tattoo-waitlist-reopening-message-templates.md).
 
 ### Why is the deposit field a checkbox and not a payment step?
 

@@ -2,6 +2,12 @@
 
 All notable changes to this repository will be documented in this file.
 
+## v1.14.0 (2026-08-14)
+
+### Added
+
+- Tattoo waitlist reopening message templates (`templates/tattoo-waitlist-reopening-message-templates.md`): early-access invitations, deadline reminders, request receipts, round-closing messages, and consistent waitlist status language
+
 ## v1.13.0 (2026-08-14)
 
 ### Added
