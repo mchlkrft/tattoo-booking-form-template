@@ -2,6 +2,12 @@
 
 All notable changes to this repository will be documented in this file.
 
+## v1.12.0 (2026-08-14)
+
+### Added
+
+- Guest spot trip planning checklist (`docs/guest-spot-trip-planning-checklist.md`): host-studio confirmation, realistic trip capacity, project criteria, booking windows, client preparation, travel checks, and trip closeout
+
 ## v1.11.0 (2026-08-14)
 
 ### Added

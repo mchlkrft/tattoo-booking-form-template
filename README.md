@@ -96,6 +96,7 @@ The same shape works for guest spots and flash days. See [docs/guest-spot-bookin
 - [Instagram DM booking workflow](docs/instagram-dm-booking-workflow.md)
 - [Google Forms vs tattoo booking software](docs/google-forms-vs-tattoo-booking-software.md)
 - [Guest spot booking workflow](docs/guest-spot-booking-workflow.md)
+- [Guest spot trip planning checklist](docs/guest-spot-trip-planning-checklist.md)
 - [How to run a tattoo flash day](docs/how-to-run-a-tattoo-flash-day.md)
 - [Tattoo consultation workflow before booking](docs/tattoo-consultation-workflow-before-booking.md)
 - [Tattoo deposit policy template](docs/tattoo-deposit-policy-template.md)
@@ -125,7 +126,7 @@ No. The MIT license lets you use, modify, and redistribute everything in this re
 
 ### What is the difference between a guest spot and a flash day?
 
-A guest spot is a tattoo artist working in another studio for a few days, taking bookings in that city. A flash day is an artist offering specific pre-drawn designs at a fixed location and date, often first-come-first-served. The repo includes separate request templates for [guest spots](templates/guest-spot-request-template.md) and [flash days](templates/flash-day-request-template.md). For the work around the form, use the guest spot trip planning checklist or [how to run a tattoo flash day](docs/how-to-run-a-tattoo-flash-day.md).
+A guest spot is a tattoo artist working in another studio for a few days, taking bookings in that city. A flash day is an artist offering specific pre-drawn designs at a fixed location and date, often first-come-first-served. The repo includes separate request templates for [guest spots](templates/guest-spot-request-template.md) and [flash days](templates/flash-day-request-template.md). For the work around the form, use the [guest spot trip planning checklist](docs/guest-spot-trip-planning-checklist.md) or [how to run a tattoo flash day](docs/how-to-run-a-tattoo-flash-day.md).
 
 ### What is a tattoo waitlist and when should I use one?
 
