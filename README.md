@@ -86,6 +86,7 @@ The same shape works for guest spots and flash days. See [docs/guest-spot-bookin
 - [templates/cover-up-tattoo-request-template.md](templates/cover-up-tattoo-request-template.md)
 - [templates/tattoo-waitlist-signup-template.md](templates/tattoo-waitlist-signup-template.md)
 - [templates/books-open-announcement-templates.md](templates/books-open-announcement-templates.md)
+- [templates/instagram-bio-and-booking-reply-copy-pack.md](templates/instagram-bio-and-booking-reply-copy-pack.md)
 - [templates/pre-appointment-client-message-template.md](templates/pre-appointment-client-message-template.md)
 - [templates/tattoo-waitlist-reopening-message-templates.md](templates/tattoo-waitlist-reopening-message-templates.md)
 - [templates/tattoo-deposit-status-tracker-template.md](templates/tattoo-deposit-status-tracker-template.md)
@@ -168,7 +169,7 @@ Keep one record per client, not per booking, so a returning client's whole histo
 
 ### How do I announce that my books are open or closed?
 
-Say it once, clearly, with a single link to act on, and announce the close as well as the open so the "are you taking bookings?" DMs stop. When your books are closed, point people at a waitlist instead of a dead end. The [books-open and books-closed announcement templates](templates/books-open-announcement-templates.md) have copy-paste captions, stories, emails, and booking-page banners. Use the Instagram bio and booking reply copy pack for shorter bio, highlight, sticker, and saved-reply wording.
+Say it once, clearly, with a single link to act on, and announce the close as well as the open so the "are you taking bookings?" DMs stop. When your books are closed, point people at a waitlist instead of a dead end. The [books-open and books-closed announcement templates](templates/books-open-announcement-templates.md) have copy-paste captions, stories, emails, and booking-page banners. Use the [Instagram bio and booking reply copy pack](templates/instagram-bio-and-booking-reply-copy-pack.md) for shorter bio, highlight, sticker, and saved-reply wording.
 
 ### Can I translate the templates?
 

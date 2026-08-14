@@ -2,6 +2,12 @@
 
 All notable changes to this repository will be documented in this file.
 
+## v1.15.0 (2026-08-14)
+
+### Added
+
+- Instagram bio and booking reply copy pack (`templates/instagram-bio-and-booking-reply-copy-pack.md`): copy-paste bio, evergreen story, guest spot, flash, highlight, sticker, pinned-post, and saved-reply wording
+
 ## v1.14.0 (2026-08-14)
 
 ### Added
