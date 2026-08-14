@@ -28,6 +28,8 @@ Each guest spot should have the following organized data, even if you keep it in
 
 ## Example structure
 
+The cities and counts below are made up, shown only to illustrate the shape of what to track per trip.
+
 ### Berlin Guest Spot
 
 - Dates: April 15 to April 22

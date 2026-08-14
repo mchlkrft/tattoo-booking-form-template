@@ -40,19 +40,10 @@ This template pairs with the [tattoo client intake template](tattoo-client-intak
 
 ---
 
-## Why ask for the city
-
-If you only ever work in one studio, the city field tells you which signups are realistic. If you travel, it does more: group your waitlist by city and the list tells you where demand is concentrated, which is exactly the data you want before committing to a guest spot. Three signups from a city you have never visited is a signal worth acting on.
-
-## What to do with the list
-
-1. When books reopen, email the waitlist before announcing publicly. Early access is the reward for signing up.
-2. Send your booking form link, not a "DM me" invitation, so the requests come back structured.
-3. Clear entries that convert into bookings and entries that go quiet, so the list stays honest.
-
 ## Related
 
 - [Tattoo client intake template](tattoo-client-intake-template.md)
 - [Guest spot request template](guest-spot-request-template.md)
 - [Tattoo waitlist guide](../docs/tattoo-waitlist-guide.md)
+- [Books-open and books-closed announcement templates](books-open-announcement-templates.md)
 - [Tattoo booking form fields](../docs/tattoo-booking-form-fields.md)

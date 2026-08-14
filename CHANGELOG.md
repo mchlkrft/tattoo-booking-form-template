@@ -2,6 +2,23 @@
 
 All notable changes to this repository will be documented in this file.
 
+## v1.7.0 (2026-08-14)
+
+### Added
+
+- Keeping tattoo client notes and history guide (`docs/tattoo-client-notes-and-history.md`): what to keep in client notes, the difference between client history and the booking request, organizing notes per client, notes for multi-session and returning clients, the privacy basics, a copy-paste client record, common mistakes, and a checklist
+- Books-open and books-closed announcement templates (`templates/books-open-announcement-templates.md`): copy-paste Instagram captions, stories, emails, and booking-page banners for opening books, last call, closed books, and an evergreen waitlist post
+- Large multi-session project request example (`examples/large-multi-session-project-request-example.md`): a worked example of a well-formed request for a big piece built over several sittings, to balance the two existing small-piece examples
+- CONTRIBUTING guide (`CONTRIBUTING.md`): what contributions are welcome, translation guidance, the voice and format rules, and the pull-request process
+- README FAQ entries on keeping client notes and history and on announcing books open or closed, plus the new guide, template, and example in the index lists
+
+### Changed
+
+- Softened two keyword-stuffing sentences (the README intro and the Google Forms doc intro) to read for a person rather than a search engine
+- Labeled the guest-spot workflow doc's "Example structure" counts as illustrative, so they no longer read as real data
+- Trimmed the waitlist signup template to the form itself, letting the waitlist guide own the explanation
+- `templates/tattoo-client-intake-template.md`, `docs/tattoo-waitlist-guide.md`, `templates/tattoo-waitlist-signup-template.md`, and `examples/basic-booking-request-example.md` Related sections now link the new material
+
 ## v1.6.0 (2026-08-14)
 
 ### Added

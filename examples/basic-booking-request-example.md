@@ -71,5 +71,6 @@ This kind of request takes a couple of minutes to read and a couple of minutes t
 ## Related
 
 - [Bad vs good booking request](bad-vs-good-booking-request.md)
+- [Large multi-session project request example](large-multi-session-project-request-example.md)
 - [Tattoo client intake template](../templates/tattoo-client-intake-template.md)
 - [Tattoo booking form fields](../docs/tattoo-booking-form-fields.md)

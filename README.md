@@ -6,7 +6,7 @@
 
 A free tattoo booking form template for freelance tattoo artists, traveling tattoo artists, and guest spot artists who want cleaner client requests than Instagram DMs, screenshots, Google Forms, or spreadsheets can offer. The repo is organized around a single idea: tattoo bookings start with the idea, not the time slot. Everything here, the form fields, the docs, the examples, is built around that order.
 
-If you are searching for a tattoo client intake form template, a tattoo artist Google Forms alternative, or a clean way to handle Instagram DM booking requests, this is the resource. The templates and docs work fine on their own, with or without any specific booking tool.
+The templates work whether you use a Google Form, a Notion page, a link-in-bio form, or a dedicated booking tool. They stand on their own, with or without any specific software.
 
 ## Quickstart
 
@@ -85,6 +85,7 @@ The same shape works for guest spots and flash days. See [docs/guest-spot-bookin
 - [templates/flash-day-request-template.md](templates/flash-day-request-template.md)
 - [templates/cover-up-tattoo-request-template.md](templates/cover-up-tattoo-request-template.md)
 - [templates/tattoo-waitlist-signup-template.md](templates/tattoo-waitlist-signup-template.md)
+- [templates/books-open-announcement-templates.md](templates/books-open-announcement-templates.md)
 
 ## Related guides
 
@@ -99,12 +100,14 @@ The same shape works for guest spots and flash days. See [docs/guest-spot-bookin
 - [Tattoo aftercare follow-up and touch-up requests](docs/tattoo-aftercare-followup-and-touch-ups.md)
 - [Tattoo booking reply templates](docs/tattoo-booking-reply-templates.md)
 - [Handling tattoo cancellations, reschedules, and no-shows](docs/tattoo-cancellations-reschedules-and-no-shows.md)
+- [Keeping tattoo client notes and history](docs/tattoo-client-notes-and-history.md)
 
 ## Examples
 
 - [Basic booking request example](examples/basic-booking-request-example.md)
 - [Guest spot booking request example](examples/guest-spot-booking-request-example.md)
 - [Bad vs good booking request](examples/bad-vs-good-booking-request.md)
+- [Large multi-session project request example](examples/large-multi-session-project-request-example.md)
 
 ## FAQ
 
@@ -148,9 +151,17 @@ State the decision first, then give one clear next action. Keep approval separat
 
 Handle the three cases differently, because they are different. A reschedule request is from a client who still wants the work, so give notice-based terms and offer specific new dates. A cancellation ends the booking, so apply your written deposit outcome calmly and leave the door open, often with a credit toward a future session. A no-show is the one you deal with after the fact: send one clear message once your grace window passes, require a fresh deposit to rebook, and log it. Refill the freed slot from a waitlist rather than leaving the day empty. The written windows and money outcomes belong in your deposit policy; the [handling tattoo cancellations, reschedules, and no-shows](docs/tattoo-cancellations-reschedules-and-no-shows.md) guide covers what to do and say when each one happens, with copy-paste messages.
 
+### How should I keep tattoo client notes and history?
+
+Keep one record per client, not per booking, so a returning client's whole history sits in one place: a session log with dates, the health flags that still matter, their preferences, and what deposits were paid. Keep candid notes off any client-facing screen, and store only the client and health data you actually use. See the [keeping tattoo client notes and history](docs/tattoo-client-notes-and-history.md) guide for a copy-paste client record and the privacy basics.
+
+### How do I announce that my books are open or closed?
+
+Say it once, clearly, with a single link to act on, and announce the close as well as the open so the "are you taking bookings?" DMs stop. When your books are closed, point people at a waitlist instead of a dead end. The [books-open and books-closed announcement templates](templates/books-open-announcement-templates.md) have copy-paste captions, stories, emails, and booking-page banners for opening, closing soon, closed, and an evergreen waitlist post.
+
 ### Can I translate the templates?
 
-Yes. The MIT license allows translation. If you publish a translation, a pull request adding it to the repo is welcome but not required.
+Yes. The MIT license allows translation, and translations are the most useful contribution you can make. If you publish one, a pull request adding it to the repo is welcome but not required. See [CONTRIBUTING.md](CONTRIBUTING.md) for the how, including where to put a translated file.
 
 ### How often is this repo updated?
 
