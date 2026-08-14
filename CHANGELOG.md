@@ -2,6 +2,12 @@
 
 All notable changes to this repository will be documented in this file.
 
+## v1.11.0 (2026-08-14)
+
+### Added
+
+- Tattoo deposit status tracker template (`templates/tattoo-deposit-status-tracker-template.md`): compact and detailed records for requested, pending-verification, received, expired, refunded, and credited deposits, plus clearly illustrative examples
+
 ## v1.10.0 (2026-08-14)
 
 ### Added

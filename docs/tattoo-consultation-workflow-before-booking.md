@@ -150,3 +150,4 @@ For custom work that needs artist review before any date is confirmed, [Inklee's
 - [Cover-up tattoo request template](../templates/cover-up-tattoo-request-template.md)
 - [Large multi-session project request example](../examples/large-multi-session-project-request-example.md)
 - [Tattoo pricing and quote requests](tattoo-pricing-and-quotes-guide.md)
+- [Tattoo deposit status tracker template](../templates/tattoo-deposit-status-tracker-template.md)

@@ -173,4 +173,5 @@ If you want the flash requests, approvals, deposits, and client details to stay 
 
 - [Flash day request template](../templates/flash-day-request-template.md)
 - [Tattoo booking request review checklist](tattoo-booking-request-review-checklist.md)
+- [Tattoo deposit status tracker template](../templates/tattoo-deposit-status-tracker-template.md)
 - [Tattoo cancellations, reschedules, and no-shows](tattoo-cancellations-reschedules-and-no-shows.md)

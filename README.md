@@ -86,6 +86,7 @@ The same shape works for guest spots and flash days. See [docs/guest-spot-bookin
 - [templates/cover-up-tattoo-request-template.md](templates/cover-up-tattoo-request-template.md)
 - [templates/tattoo-waitlist-signup-template.md](templates/tattoo-waitlist-signup-template.md)
 - [templates/books-open-announcement-templates.md](templates/books-open-announcement-templates.md)
+- [templates/tattoo-deposit-status-tracker-template.md](templates/tattoo-deposit-status-tracker-template.md)
 
 ## Related guides
 
@@ -132,7 +133,7 @@ A waitlist is a short signup form that collects interested clients while your bo
 
 ### Why is the deposit field a checkbox and not a payment step?
 
-This repo only covers the request stage. The deposit happens after the artist reviews and approves the request, not during the form submission. Most tattoo artists do not want to charge before they have agreed to take the piece. Use the [tattoo deposit policy template](docs/tattoo-deposit-policy-template.md) for the written terms and the deposit status tracker template to keep requested, received, expired, refunded, and credited states separate.
+This repo only covers the request stage. The deposit happens after the artist reviews and approves the request, not during the form submission. Most tattoo artists do not want to charge before they have agreed to take the piece. Use the [tattoo deposit policy template](docs/tattoo-deposit-policy-template.md) for the written terms and the [deposit status tracker template](templates/tattoo-deposit-status-tracker-template.md) to keep requested, received, expired, refunded, and credited states separate.
 
 ### What health and consent questions should a tattoo intake form ask?
 

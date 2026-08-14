@@ -105,3 +105,4 @@ After the deposit is received, the client receives a message that reads somethin
 - [Tattoo aftercare follow-up and touch-up requests](tattoo-aftercare-followup-and-touch-ups.md)
 - [Tattoo booking reply templates](tattoo-booking-reply-templates.md)
 - [Handling tattoo cancellations, reschedules, and no-shows](tattoo-cancellations-reschedules-and-no-shows.md)
+- [Tattoo deposit status tracker template](../templates/tattoo-deposit-status-tracker-template.md)
