@@ -1,0 +1,81 @@
+name: Weekly drip publish
+
+# Publishes ONE queued content release every Wednesday.
+#
+# How it works: the `drip` branch holds a chain of pre-built, individually
+# link-validated release commits (one per article, tagged v1.8.0, v1.9.0, ...).
+# Each Wednesday this job fast-forwards `main` to the next commit on `drip` and
+# creates the matching version tag. Because every drip commit was validated when
+# the branch was built (character hygiene + all internal links resolve), the
+# weekly job can only ever advance one already-clean release. When `main` catches
+# up to the tip of `drip`, there is nothing left to publish and the job no-ops.
+#
+# KILL SWITCH: add a file named `.drip-paused` to `main` (any content) and the
+# job skips. Remove it to resume.
+#
+# MANUAL RUN: use the "Run workflow" button (workflow_dispatch) to publish the
+# next release immediately, for example to send the first one without waiting.
+#
+# If `main` is edited directly during the drip so it no longer fast-forwards to
+# `drip`, the job fails safely (it never force-pushes); reconcile and it resumes.
+
+on:
+  schedule:
+    - cron: "0 12 * * 3" # every Wednesday, 12:00 UTC
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: weekly-drip
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out main (full history)
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+
+      - name: Publish the next drip release
+        run: |
+          set -euo pipefail
+
+          if [ -f .drip-paused ]; then
+            echo "Drip is paused (.drip-paused present on main); skipping."
+            exit 0
+          fi
+
+          git config user.name "inklee-content-bot"
+          git config user.email "actions@github.com"
+
+          git fetch --no-tags origin drip
+
+          NEXT="$(git rev-list --reverse --ancestry-path main..origin/drip | head -1 || true)"
+          if [ -z "${NEXT:-}" ]; then
+            echo "Drip queue is empty; all releases are published."
+            exit 0
+          fi
+          echo "Next release commit: ${NEXT}"
+
+          # Fast-forward only. Never rewrites history, never force-pushes.
+          git merge --ff-only "${NEXT}"
+
+          VER="$(grep -m1 -oE '^## v[0-9]+\.[0-9]+\.[0-9]+' CHANGELOG.md | grep -oE 'v[0-9]+\.[0-9]+\.[0-9]+')"
+          if [ -z "${VER:-}" ]; then
+            echo "Could not determine version from CHANGELOG.md top; aborting." >&2
+            exit 1
+          fi
+          if git rev-parse -q --verify "refs/tags/${VER}" >/dev/null; then
+            echo "Tag ${VER} already exists; aborting to avoid a duplicate." >&2
+            exit 1
+          fi
+
+          git tag "${VER}"
+          git push origin main
+          git push origin "${VER}"
+          echo "Published ${VER} (commit ${NEXT})."
