@@ -1,6 +1,6 @@
 # Tattoo Booking Reply Templates
 
-A structured request only saves time if the reply is just as clear. This guide gives tattoo artists copy-paste messages for the main booking decisions: ask for missing details, approve a request, send a deposit request, confirm the appointment, move a request to the waitlist, decline it, or handle a reschedule.
+A structured request only saves time if the reply is just as clear. This guide gives tattoo artists copy-paste messages for the main booking decisions: ask for missing details, approve a request, send a deposit request, release an expired hold, confirm the appointment, move a request to the waitlist, decline it, or handle a reschedule.
 
 Use these as starting points. Replace every `___` placeholder, match the wording to your own voice, and keep the final decision outside Instagram DMs when possible so the request and reply stay together.
 
@@ -69,6 +69,20 @@ received by the deadline, I may release the date to another client.
 ```
 
 Never ask a client to send card details through email or DMs. Use your normal secure payment method.
+
+## Release an expired deposit hold
+
+Use this after the stated deadline passes and you have checked that the payment did not arrive. Do not call the booking canceled if it was never confirmed.
+
+```text
+Hey ___, the deposit deadline for the appointment hold on ___ has passed and I
+have not received the payment, so the date is no longer on hold.
+
+If you still want to book, reply through ___. I can check current availability,
+but I cannot promise the same date.
+```
+
+If a late payment arrives after the date was released, check the payment and your current availability before promising a replacement date. Record it as unmatched until the next step is agreed.
 
 ## Confirm the appointment
 
@@ -191,6 +205,7 @@ A client should be able to find the decision and next action without rereading a
 - [ ] Dates include the city or studio when travel is involved
 - [ ] Price wording distinguishes an estimate from a fixed quote
 - [ ] Deposit amount, deadline, and policy are together
+- [ ] An expired deposit hold is released only after the payment record is checked
 - [ ] Confirmation is sent only after the deposit arrives
 - [ ] Waitlist wording does not imply a guaranteed appointment
 - [ ] Declines are direct, respectful, and free of fake excuses

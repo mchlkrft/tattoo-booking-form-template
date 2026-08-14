@@ -2,6 +2,16 @@
 
 All notable changes to this repository will be documented in this file.
 
+## v1.8.0 (2026-08-14)
+
+### Added
+
+- How to run a tattoo flash day (`docs/how-to-run-a-tattoo-flash-day.md`): appointment, walk-in, and hybrid formats, design IDs, claim states, realistic session blocks, confirmations, a private day list, and post-event closeout
+
+### Changed
+
+- Tattoo booking reply templates now own the expired deposit hold wording and are the single source for reusable booking messages (approvals, deposit requests, confirmations, waitlist, declines, reschedules)
+
 ## v1.7.0 (2026-08-14)
 
 ### Added

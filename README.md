@@ -94,6 +94,7 @@ The same shape works for guest spots and flash days. See [docs/guest-spot-bookin
 - [Instagram DM booking workflow](docs/instagram-dm-booking-workflow.md)
 - [Google Forms vs tattoo booking software](docs/google-forms-vs-tattoo-booking-software.md)
 - [Guest spot booking workflow](docs/guest-spot-booking-workflow.md)
+- [How to run a tattoo flash day](docs/how-to-run-a-tattoo-flash-day.md)
 - [Tattoo deposit policy template](docs/tattoo-deposit-policy-template.md)
 - [Tattoo waitlist guide](docs/tattoo-waitlist-guide.md)
 - [Tattoo pricing and quote requests](docs/tattoo-pricing-and-quotes-guide.md)
@@ -121,15 +122,15 @@ No. The MIT license lets you use, modify, and redistribute everything in this re
 
 ### What is the difference between a guest spot and a flash day?
 
-A guest spot is a tattoo artist working in another studio for a few days, taking bookings in that city. A flash day is an artist offering specific pre-drawn designs at a fixed location and date, often first-come-first-served. The repo includes separate templates for each ([guest spot](templates/guest-spot-request-template.md), [flash day](templates/flash-day-request-template.md), [cover-up](templates/cover-up-tattoo-request-template.md)) since each flow needs slightly different fields.
+A guest spot is a tattoo artist working in another studio for a few days, taking bookings in that city. A flash day is an artist offering specific pre-drawn designs at a fixed location and date, often first-come-first-served. The repo includes separate request templates for [guest spots](templates/guest-spot-request-template.md) and [flash days](templates/flash-day-request-template.md). For the work around the form, use the guest spot trip planning checklist or [how to run a tattoo flash day](docs/how-to-run-a-tattoo-flash-day.md).
 
 ### What is a tattoo waitlist and when should I use one?
 
-A waitlist is a short signup form that collects interested clients while your books are closed, so you reopen to a ready list instead of starting from zero. It asks for much less than a booking request (name, email, rough idea, city) because nobody is committing to anything yet. The city field doubles as travel planning for guest spot artists. See the [tattoo waitlist guide](docs/tattoo-waitlist-guide.md) and the [waitlist signup template](templates/tattoo-waitlist-signup-template.md).
+A waitlist is a short signup form that collects interested clients while your books are closed, so you reopen to a ready list instead of starting from zero. It asks for much less than a booking request (name, email, rough idea, city) because nobody is committing to anything yet. The city field doubles as travel planning for guest spot artists. See the [tattoo waitlist guide](docs/tattoo-waitlist-guide.md), [waitlist signup template](templates/tattoo-waitlist-signup-template.md), and waitlist reopening message templates.
 
 ### Why is the deposit field a checkbox and not a payment step?
 
-This repo only covers the request stage. The deposit happens after the artist reviews and approves the request, not during the form submission. Most tattoo artists do not want to charge before they have agreed to take the piece. See [tattoo deposit policy template](docs/tattoo-deposit-policy-template.md) for the deposit policy itself.
+This repo only covers the request stage. The deposit happens after the artist reviews and approves the request, not during the form submission. Most tattoo artists do not want to charge before they have agreed to take the piece. Use the [tattoo deposit policy template](docs/tattoo-deposit-policy-template.md) for the written terms and the deposit status tracker template to keep requested, received, expired, refunded, and credited states separate.
 
 ### What health and consent questions should a tattoo intake form ask?
 
@@ -145,7 +146,11 @@ Yes, a short follow-up is worth it: it catches healing problems early, gets you 
 
 ### How should I reply to a tattoo booking request?
 
-State the decision first, then give one clear next action. Keep approval separate from confirmation: approve the project, send the quote and deposit step, and only confirm the appointment after the deposit arrives. For declines and waitlists, be direct about what the status means instead of leaving the client guessing. The [tattoo booking reply templates](docs/tattoo-booking-reply-templates.md) include copy-paste wording for missing details, approvals, deposits, confirmations, waitlists, declines, rescheduling, and cancellations.
+State the decision first, then give one clear next action. Keep approval separate from confirmation: approve the project, send the quote and deposit step, and only confirm the appointment after the deposit arrives. Use the booking request review checklist before deciding, or the consultation workflow when the project needs a conversation first. The [tattoo booking reply templates](docs/tattoo-booking-reply-templates.md) remain the single source for missing details, approvals, deposits, confirmations, waitlists, declines, rescheduling, cancellations, and expired holds.
+
+### What should I send a client before a tattoo appointment?
+
+Repeat the confirmed date, arrival time, studio address, project, placement, deposit, estimated balance, and payment methods. Add clothing or access notes for the placement, your guest and lateness rules, the rescheduling policy, and one day-of contact method. Do not tell clients to stop prescribed medication or diagnose a health or skin concern in a routine message. The pre-appointment client message template includes full, short, flash-day, and guest-spot versions.
 
 ### How should I handle a client who cancels or does not show up?
 
@@ -157,7 +162,7 @@ Keep one record per client, not per booking, so a returning client's whole histo
 
 ### How do I announce that my books are open or closed?
 
-Say it once, clearly, with a single link to act on, and announce the close as well as the open so the "are you taking bookings?" DMs stop. When your books are closed, point people at a waitlist instead of a dead end. The [books-open and books-closed announcement templates](templates/books-open-announcement-templates.md) have copy-paste captions, stories, emails, and booking-page banners for opening, closing soon, closed, and an evergreen waitlist post.
+Say it once, clearly, with a single link to act on, and announce the close as well as the open so the "are you taking bookings?" DMs stop. When your books are closed, point people at a waitlist instead of a dead end. The [books-open and books-closed announcement templates](templates/books-open-announcement-templates.md) have copy-paste captions, stories, emails, and booking-page banners. Use the Instagram bio and booking reply copy pack for shorter bio, highlight, sticker, and saved-reply wording.
 
 ### Can I translate the templates?
 

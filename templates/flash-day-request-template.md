@@ -50,3 +50,4 @@ A reusable Markdown template for tattoo flash day booking requests. Flash days w
 - [Tattoo client intake template](tattoo-client-intake-template.md)
 - [Tattoo deposit policy template](../docs/tattoo-deposit-policy-template.md)
 - [Tattoo booking form fields](../docs/tattoo-booking-form-fields.md)
+- [How to run a tattoo flash day](../docs/how-to-run-a-tattoo-flash-day.md)
