@@ -96,6 +96,7 @@ The same shape works for guest spots and flash days. See [docs/guest-spot-bookin
 - [Google Forms vs tattoo booking software](docs/google-forms-vs-tattoo-booking-software.md)
 - [Guest spot booking workflow](docs/guest-spot-booking-workflow.md)
 - [How to run a tattoo flash day](docs/how-to-run-a-tattoo-flash-day.md)
+- [Tattoo consultation workflow before booking](docs/tattoo-consultation-workflow-before-booking.md)
 - [Tattoo deposit policy template](docs/tattoo-deposit-policy-template.md)
 - [Tattoo waitlist guide](docs/tattoo-waitlist-guide.md)
 - [Tattoo pricing and quote requests](docs/tattoo-pricing-and-quotes-guide.md)
@@ -147,7 +148,7 @@ Yes, a short follow-up is worth it: it catches healing problems early, gets you 
 
 ### How should I reply to a tattoo booking request?
 
-State the decision first, then give one clear next action. Keep approval separate from confirmation: approve the project, send the quote and deposit step, and only confirm the appointment after the deposit arrives. Use the [booking request review checklist](docs/tattoo-booking-request-review-checklist.md) before deciding, or the consultation workflow when the project needs a conversation first. The [tattoo booking reply templates](docs/tattoo-booking-reply-templates.md) remain the single source for missing details, approvals, deposits, confirmations, waitlists, declines, rescheduling, cancellations, and expired holds.
+State the decision first, then give one clear next action. Keep approval separate from confirmation: approve the project, send the quote and deposit step, and only confirm the appointment after the deposit arrives. Use the [booking request review checklist](docs/tattoo-booking-request-review-checklist.md) before deciding, or the [consultation workflow](docs/tattoo-consultation-workflow-before-booking.md) when the project needs a conversation first. The [tattoo booking reply templates](docs/tattoo-booking-reply-templates.md) remain the single source for missing details, approvals, deposits, confirmations, waitlists, declines, rescheduling, cancellations, and expired holds.
 
 ### What should I send a client before a tattoo appointment?
 

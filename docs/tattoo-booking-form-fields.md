@@ -117,3 +117,4 @@ If the request gets approved, you can collect anything else you need afterward.
 - [Tattoo pricing and quote requests](tattoo-pricing-and-quotes-guide.md)
 - [Tattoo consent and health intake fields](tattoo-consent-and-health-intake-fields.md)
 - [Tattoo booking request review checklist](tattoo-booking-request-review-checklist.md)
+- [Tattoo consultation workflow before booking](tattoo-consultation-workflow-before-booking.md)

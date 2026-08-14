@@ -113,4 +113,5 @@ If you want the request and review step connected, [Inklee's tattoo booking form
 - [Tattoo client intake template](../templates/tattoo-client-intake-template.md)
 - [Bad vs good booking request](../examples/bad-vs-good-booking-request.md)
 - [Tattoo booking reply templates](tattoo-booking-reply-templates.md)
+- [Tattoo consultation workflow before booking](tattoo-consultation-workflow-before-booking.md)
 - [Tattoo pricing and quote requests](tattoo-pricing-and-quotes-guide.md)

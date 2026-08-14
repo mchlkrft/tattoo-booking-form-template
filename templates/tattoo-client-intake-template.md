@@ -72,3 +72,4 @@ This template covers the request only. Deposit collection, calendar booking, and
 - [Tattoo booking reply templates](../docs/tattoo-booking-reply-templates.md)
 - [Keeping tattoo client notes and history](../docs/tattoo-client-notes-and-history.md)
 - [Tattoo booking request review checklist](../docs/tattoo-booking-request-review-checklist.md)
+- [Tattoo consultation workflow before booking](../docs/tattoo-consultation-workflow-before-booking.md)

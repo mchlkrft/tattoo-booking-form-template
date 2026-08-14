@@ -2,6 +2,12 @@
 
 All notable changes to this repository will be documented in this file.
 
+## v1.10.0 (2026-08-14)
+
+### Added
+
+- Tattoo consultation workflow before booking (`docs/tattoo-consultation-workflow-before-booking.md`): deciding when a consultation is useful, collecting context first, running a focused agenda, ending with one decision, and sending a written recap
+
 ## v1.9.0 (2026-08-14)
 
 ### Added
