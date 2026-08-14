@@ -98,6 +98,7 @@ The same shape works for guest spots and flash days. See [docs/guest-spot-bookin
 - [Tattoo pricing and quote requests](docs/tattoo-pricing-and-quotes-guide.md)
 - [Tattoo aftercare follow-up and touch-up requests](docs/tattoo-aftercare-followup-and-touch-ups.md)
 - [Tattoo booking reply templates](docs/tattoo-booking-reply-templates.md)
+- [Handling tattoo cancellations, reschedules, and no-shows](docs/tattoo-cancellations-reschedules-and-no-shows.md)
 
 ## Examples
 
@@ -143,13 +144,17 @@ Yes, a short follow-up is worth it: it catches healing problems early, gets you 
 
 State the decision first, then give one clear next action. Keep approval separate from confirmation: approve the project, send the quote and deposit step, and only confirm the appointment after the deposit arrives. For declines and waitlists, be direct about what the status means instead of leaving the client guessing. The [tattoo booking reply templates](docs/tattoo-booking-reply-templates.md) include copy-paste wording for missing details, approvals, deposits, confirmations, waitlists, declines, rescheduling, and cancellations.
 
+### How should I handle a client who cancels or does not show up?
+
+Handle the three cases differently, because they are different. A reschedule request is from a client who still wants the work, so give notice-based terms and offer specific new dates. A cancellation ends the booking, so apply your written deposit outcome calmly and leave the door open, often with a credit toward a future session. A no-show is the one you deal with after the fact: send one clear message once your grace window passes, require a fresh deposit to rebook, and log it. Refill the freed slot from a waitlist rather than leaving the day empty. The written windows and money outcomes belong in your deposit policy; the [handling tattoo cancellations, reschedules, and no-shows](docs/tattoo-cancellations-reschedules-and-no-shows.md) guide covers what to do and say when each one happens, with copy-paste messages.
+
 ### Can I translate the templates?
 
 Yes. The MIT license allows translation. If you publish a translation, a pull request adding it to the repo is welcome but not required.
 
 ### How often is this repo updated?
 
-Roughly every two weeks for the first months, then monthly. New templates, new examples, and copy improvements drop on a regular cadence. See [CHANGELOG.md](CHANGELOG.md) for the latest changes.
+When there is something genuinely useful to add, not on a fixed schedule. New templates, guides, and copy improvements land when a distinct, practical topic is ready, so quiet stretches are normal and a release means real new material. See [CHANGELOG.md](CHANGELOG.md) for the latest changes.
 
 ## Built by Inklee
 

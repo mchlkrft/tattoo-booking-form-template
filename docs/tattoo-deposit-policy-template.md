@@ -104,3 +104,4 @@ After the deposit is received, the client receives a message that reads somethin
 - [Tattoo consent and health intake fields](tattoo-consent-and-health-intake-fields.md)
 - [Tattoo aftercare follow-up and touch-up requests](tattoo-aftercare-followup-and-touch-ups.md)
 - [Tattoo booking reply templates](tattoo-booking-reply-templates.md)
+- [Handling tattoo cancellations, reschedules, and no-shows](tattoo-cancellations-reschedules-and-no-shows.md)

@@ -2,16 +2,19 @@
 
 All notable changes to this repository will be documented in this file.
 
-## Unreleased (2026-07-10)
+## v1.6.0 (2026-08-14)
 
 ### Added
 
 - Tattoo booking reply templates guide (`docs/tattoo-booking-reply-templates.md`) with copy-paste wording for missing details, approvals, deposit requests, confirmations, waitlists, declines, rescheduling, and cancellations
-- README FAQ entry explaining the difference between approval and confirmation
+- Handling tattoo cancellations, reschedules, and no-shows guide (`docs/tattoo-cancellations-reschedules-and-no-shows.md`): an answer-first quick-reference table, how to tell the three events apart, what to do and say for each (reschedule, cancellation, no-show) with copy-paste messages, why a cancelled appointment costs more than chair time, filling a last-minute opening from the waitlist (including during a guest spot), staying firm and fair without improvising the deposit, common mistakes, and a checklist. Owns the operational handling; the written windows and money outcomes stay in the deposit policy template, and prevention stays a separate topic
+- README FAQ entries on the difference between approval and confirmation, and on handling cancellations and no-shows, plus both new guides in the Related guides index
 
 ### Changed
 
 - README, tattoo client intake template, deposit policy, and Instagram DM workflow now link to the booking reply templates
+- README "How often is this repo updated?" answer corrected to the honest event-driven cadence (the old "every two weeks then monthly" line was stale)
+- `docs/tattoo-deposit-policy-template.md` and `docs/tattoo-waitlist-guide.md` Related sections now link the cancellations and no-shows guide
 
 ## v1.5.0 (2026-07-01)
 
