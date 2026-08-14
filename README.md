@@ -90,6 +90,7 @@ The same shape works for guest spots and flash days. See [docs/guest-spot-bookin
 ## Related guides
 
 - [Tattoo booking form fields](docs/tattoo-booking-form-fields.md)
+- [Tattoo booking request review checklist](docs/tattoo-booking-request-review-checklist.md)
 - [Tattoo consent and health intake fields](docs/tattoo-consent-and-health-intake-fields.md)
 - [Instagram DM booking workflow](docs/instagram-dm-booking-workflow.md)
 - [Google Forms vs tattoo booking software](docs/google-forms-vs-tattoo-booking-software.md)
@@ -146,7 +147,7 @@ Yes, a short follow-up is worth it: it catches healing problems early, gets you 
 
 ### How should I reply to a tattoo booking request?
 
-State the decision first, then give one clear next action. Keep approval separate from confirmation: approve the project, send the quote and deposit step, and only confirm the appointment after the deposit arrives. Use the booking request review checklist before deciding, or the consultation workflow when the project needs a conversation first. The [tattoo booking reply templates](docs/tattoo-booking-reply-templates.md) remain the single source for missing details, approvals, deposits, confirmations, waitlists, declines, rescheduling, cancellations, and expired holds.
+State the decision first, then give one clear next action. Keep approval separate from confirmation: approve the project, send the quote and deposit step, and only confirm the appointment after the deposit arrives. Use the [booking request review checklist](docs/tattoo-booking-request-review-checklist.md) before deciding, or the consultation workflow when the project needs a conversation first. The [tattoo booking reply templates](docs/tattoo-booking-reply-templates.md) remain the single source for missing details, approvals, deposits, confirmations, waitlists, declines, rescheduling, cancellations, and expired holds.
 
 ### What should I send a client before a tattoo appointment?
 

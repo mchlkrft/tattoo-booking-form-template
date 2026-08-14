@@ -2,6 +2,12 @@
 
 All notable changes to this repository will be documented in this file.
 
+## v1.9.0 (2026-08-14)
+
+### Added
+
+- Tattoo booking request review checklist (`docs/tattoo-booking-request-review-checklist.md`): a repeatable artist-side review for completeness, style fit, scope, timing, status, and next action after a request arrives
+
 ## v1.8.0 (2026-08-14)
 
 ### Added
